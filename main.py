@@ -26,7 +26,7 @@ else:
 buah= 'semangka'  
 star = 0
 end = 12  
-while star < end:
+while star < end: #looping
       print(buah)
       star= star+1
   
